@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Sorel Chanel Tiokap Guemdjou 👋
 
-<!--
-**sorel2030/Sorel2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Data Analyst | Python • SQL • PySpark • Power BI
 
-Here are some ideas to get you started:
+Recently graduated in Data Science from TELUQ University, I enjoy working on real-world datasets and transforming raw data into useful insights for decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently looking for junior opportunities in data analytics, business intelligence, and data-driven projects.
+
+---
+
+# Bonjour, je suis Sorel Chanel Tiokap Guemdjou 👋
+
+## Analyste de données junior | Python • SQL • PySpark • Power BI
+
+Diplômée récente en sciences des données à l’Université TELUQ, j’aime travailler sur des jeux de données réels et transformer les données brutes en analyses utiles pour la prise de décision.
+
+Je recherche actuellement des opportunités junior en analyse de données, intelligence d’affaires et projets orientés données.
+
+---
+
+## Technical Skills / Compétences techniques
+
+- Python
+- SQL
+- R
+- PySpark
+- Hadoop
+- Power BI
+- Jupyter Notebook
+- Google Colab
+
+---
+
+## Featured Projects / Projets principaux
+
+- NYC Taxi Trip Data Analysis
+- Amazon Mobile Reviews Analysis
+- AI Adoption Worldwide Project
+
+---
+
+## Currently Improving / En apprentissage
+
+- Streamlit dashboard development
+- SQL portfolio projects
+- Data visualization and storytelling
+
+---
+
+## Contact
+
+- LinkedIn:https://www.linkedin.com/in/sorel-tiokap-1a2635265
+- Email: tiokapsorel14@gmail.com
+
+- LinkedIn: www.linkedin.com/in/sorel-tiokap-1a263526
+- Email: tiokapsorel14@gmail.com
