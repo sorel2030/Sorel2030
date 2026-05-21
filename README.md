@@ -52,5 +52,3 @@ Je recherche actuellement des opportunités junior en analyse de données, intel
 - LinkedIn:https://www.linkedin.com/in/sorel-tiokap-1a2635265
 - Email: tiokapsorel14@gmail.com
 
-- LinkedIn: www.linkedin.com/in/sorel-tiokap-1a263526
-- Email: tiokapsorel14@gmail.com
