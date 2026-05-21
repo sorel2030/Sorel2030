@@ -42,9 +42,16 @@ Je recherche actuellement des opportunités junior en analyse de données, intel
 - Streamlit dashboard development
 - SQL portfolio projects
 - Data visualization and storytelling
+  
 
 ---
+---
 
+## GitHub Stats
+
+![Sorel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorel2030&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorel2030&layout=compact)
 ## Contact
 
 - LinkedIn:https://www.linkedin.com/in/sorel-tiokap-1a2635265
