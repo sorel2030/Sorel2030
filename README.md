@@ -37,7 +37,7 @@ J'ai développé et mis en ligne un tableau de bord interactif qui segmente 62 p
 
   ## 📈 Zoom sur mon dernier projet : Analyse des Délais d'Immigration au Canada
 
-Ayant moi-même navigué à travers les différentes étapes du système d'immigration canadien – d'abord comme **étudiante étrangère**, aujourd'hui comme **travailleuse**, et actuellement en attente de la **résidence permanente** – ce projet me tient particulièrement à cœur. J'ai souhaité mettre mes compétences en analyse de données au service d'une réalité que je connais bien.
+Ayant moi-même navigué à travers les différentes étapes du système d'immigration canadien d'abord comme **étudiante étrangère**, aujourd'hui comme **travailleuse**, et actuellement en attente de la **résidence permanente**  ce projet me tient particulièrement à cœur. J'ai souhaité mettre mes compétences en analyse de données au service d'une réalité que je connais bien.
 
 Dans ce projet, j'analyse les dynamiques opérationnelles et l'évolution des délais de traitement entre le Québec et l'Ontario de 2022 à 2024.
 
