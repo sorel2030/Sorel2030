@@ -35,6 +35,22 @@ J'ai développé et mis en ligne un tableau de bord interactif qui segmente 62 p
 * 📊 **Démo en direct :** [Tester mon application Streamlit](https://projet-final-sci1402-64cz8chv8yod6amweechym.streamlit.app/)
 * 📂 **Code Source :** [Dépôt GitHub du projet](https://github.com/sorel2030/Adoption-de-l-Intelligence-artificielle)
 
+  ## 📈 Zoom sur mon dernier projet : Analyse des Délais d'Immigration au Canada
+
+Ayant moi-même navigué à travers les différentes étapes du système d'immigration canadien – d'abord comme **étudiante étrangère**, aujourd'hui comme **travailleuse**, et actuellement en attente de la **résidence permanente** – ce projet me tient particulièrement à cœur. J'ai souhaité mettre mes compétences en analyse de données au service d'une réalité que je connais bien.
+
+Dans ce projet, j'analyse les dynamiques opérationnelles et l'évolution des délais de traitement entre le Québec et l'Ontario de 2022 à 2024.
+
+### 🛠️ Technologies utilisées :
+* **SQL** (PostgreSQL) : Structuration de la base de données, nettoyage des données de simulation et requêtes analytiques.
+* **Python (Pandas, Seaborn)** : Chargement des flux et génération de graphiques de tendances pour visualiser les écarts de traitement.
+
+### 💡 Ce que ce projet démontre :
+* Ma capacité à traduire un contexte réglementaire complexe en un modèle de données relationnel propre.
+* Une maîtrise du cycle complet de la donnée : de l'extraction SQL à la visualisation de conclusions claires.
+
+👉 **[Découvrir le projet complet ici](https://github.com/sorel2030/Analyse-SQL-Immigration-Canada)**
+
 ---
 
 ## Currently Improving / En apprentissage
