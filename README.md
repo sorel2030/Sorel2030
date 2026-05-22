@@ -28,12 +28,12 @@ Je recherche actuellement des opportunités junior en analyse de données, intel
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ---
+# 🚀 Projet Vedette (À la une)
 
-## Featured Projects / Projets principaux
-
-- NYC Taxi Trip Data Analysis
-- Amazon Mobile Reviews Analysis
-- AI Adoption Worldwide Project
+### 🌍 Application Web : Analyse de l'Adoption de l'IA dans le Monde
+J'ai développé et mis en ligne un tableau de bord interactif qui segmente 62 pays selon leur maturité technologique en utilisant un algorithme de Machine Learning (K-Means).
+* 📊 **Démo en direct :** [Tester mon application Streamlit](https://projet-final-sci1402-64cz8chv8yod6amweechym.streamlit.app/)
+* 📂 **Code Source :** [Dépôt GitHub du projet](https://github.com/sorel2030/Adoption-de-l-Intelligence-artificielle)
 
 ---
 
